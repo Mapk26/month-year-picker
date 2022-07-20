@@ -4,8 +4,8 @@
 import 'month_year_picker_localizations.dart';
 
 /// The translations for English (`en`).
-class MonthYearPickerLocalizationsEn extends MonthYearPickerLocalizations {
-  MonthYearPickerLocalizationsEn([String locale = 'it']) : super(locale);
+class MonthYearPickerLocalizationsIt extends MonthYearPickerLocalizations {
+  MonthYearPickerLocalizationsIt([String locale = 'it']) : super(locale);
 
   @override
   String get helpText => 'SELEZIONA MESE E ANNO';
