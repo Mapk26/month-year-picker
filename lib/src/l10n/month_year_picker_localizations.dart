@@ -10,6 +10,7 @@ import 'month_year_picker_localizations_de.dart';
 import 'month_year_picker_localizations_en.dart';
 import 'month_year_picker_localizations_id.dart';
 import 'month_year_picker_localizations_ms.dart';
+import 'month_year_picker_localizations_it.dart';
 
 /// Callers can lookup localized strings with an instance of MonthYearPickerLocalizations returned
 /// by `MonthYearPickerLocalizations.of(context)`.
